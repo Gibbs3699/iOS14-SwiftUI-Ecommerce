@@ -22,3 +22,16 @@
     .padding()
 
 - SwiftUI’s layoutPriority() modifier lets us request that certain views should be given more room on the screen when space is limited. All views have a layout priority of 0 by default, but if you’re finding one particular view is squashed you can ask it to be given a higher priority using layoutPriority().
+
+## second commit
+###### LogoView.swift 
+<img width="309" alt="Screen Shot 2565-06-15 at 22 03 10" src="https://user-images.githubusercontent.com/57714919/173860581-544b18c0-0ded-4107-ae8e-bb64fadfe366.png">
+
+###### NavigationBarView.swift
+<img width="355" alt="Screen Shot 2565-06-15 at 22 04 18" src="https://user-images.githubusercontent.com/57714919/173860831-c3268cfb-3191-4d1f-ae95-bbdc9f4da2dd.png">
+
+###### ContentView.swift
+<img width="363" alt="Screen Shot 2565-06-15 at 22 05 06" src="https://user-images.githubusercontent.com/57714919/173861023-b9c4320a-34b3-42a8-a829-241bfc724e7f.png">
+
+
+
